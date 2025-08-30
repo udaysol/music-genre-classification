@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+torchvision
+torchinfo
+torchmetrics
+scikit-learn
+scikit-image
+matplotlib
+tqdm
+librosa
+mlxtend
