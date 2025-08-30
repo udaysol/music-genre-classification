@@ -19,7 +19,7 @@ The best model, **ResNet34 with unfrozen Layer 3 & 4**, achieves:
 music-genre-classification/
 │
 ├── Data/                                         # Place dataset here (Follows the GTZAN Dataset structure)
-│   └── genres\_original/                         # 10 subfolders, one per genre, containing audio files
+│   └── genres_original/                         # 10 subfolders, one per genre, containing audio files
 │
 ├── saved_models/                                 # Trained model checkpoints
 │   ├── music_genre_effnetb2_10_epochs.pth
@@ -48,7 +48,7 @@ music-genre-classification/
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/music-genre-classification.git
+git clone https://github.com/udaysol/music-genre-classification.git
 cd music-genre-classification
 pip install -r requirements.txt
 ```
