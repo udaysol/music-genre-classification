@@ -97,7 +97,7 @@ This will:
 
 You can also experiment with other models:
 
-* To use **ResNet50** or **EfficientNetB2**, edit `train.py` and replace the model creation line with the corresponding function from `utils.py`.
+* To use **ResNet50** or **EfficientNetB2**, edit `train.py` and replace the model creation line with the corresponding function from `models.py`.
 * You can also define and train your **own custom model** by adding a function in `utils.py` and calling it in `train.py` or directly defining it in the `train.py`.
 
 ---
